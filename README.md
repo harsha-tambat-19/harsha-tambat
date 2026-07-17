@@ -59,3 +59,10 @@ Building clean, responsive and user-friendly web applications.
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsha-tambat-19&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
