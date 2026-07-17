@@ -28,3 +28,12 @@ Building clean, responsive and user-friendly web applications.
 <p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
+
+
+## 🚀 Featured Projects
+
+- 🌐 Portfolio Website
+- 📝 Blog Application
+- 🔗 URL Shortener
+- ♻️ E-Waste Pickup System
+- ⛽ CNG Booking System
