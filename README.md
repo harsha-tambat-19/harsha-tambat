@@ -74,3 +74,13 @@ Building clean, responsive and user-friendly web applications.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsha-tambat-19&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
