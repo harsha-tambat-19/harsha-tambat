@@ -10,3 +10,33 @@ My GitHub Profile
 <p align="center">
 Building clean, responsive and user-friendly web applications.
 </p>
+
+
+
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
