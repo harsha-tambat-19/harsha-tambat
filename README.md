@@ -12,6 +12,17 @@ Building clean, responsive and user-friendly web applications.
 </p>
 
 
+\## 🧑‍💻 About Me
+
+👋 Hi! I'm **Harsha Tambat**, a **B.E. Computer Engineering Student** passionate about creating modern and responsive web applications.
+
+💻 I enjoy working with **JavaScript, React.js, Node.js, Express.js, and MongoDB** to build real-world projects.
+
+🚀 I'm continuously improving my development skills, exploring new technologies, and working towards becoming a professional **Full-Stack Developer**.
+
+🎯 Currently looking for **Internship** and **Software Developer** opportunities where I can learn, grow, and contribute.
+
+
 
 
 ## 🛠️ Tech Stack
