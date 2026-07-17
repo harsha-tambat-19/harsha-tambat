@@ -23,30 +23,8 @@ Building clean, responsive and user-friendly web applications.
 
 
 
+## 💻 Technologies & Tools
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
