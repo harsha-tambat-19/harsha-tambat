@@ -61,8 +61,16 @@ Building clean, responsive and user-friendly web applications.
 </p>
 
 
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harsha-tambat-19&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsha-tambat-19&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
